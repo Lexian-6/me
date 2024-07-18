@@ -2,7 +2,7 @@
 # student number, and that's what makes sure that you get a mark.
 
 first_name: Juno
-studentNumber: z??? # if you're not at UNSW, your org name, e.g. BVN
+studentNumber: Auditor # if you're not at UNSW, your org name, e.g. BVN
 # accounts
 stackOverflowLink: https://stackoverflow.com/users/1835727/ben
 github: notionparallax
